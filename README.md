@@ -9,6 +9,8 @@
 python manage.py test api.tests
 
 ## Coverage
-coverage run manage.py test api -v 2
-coverage html
-open kami_airlines/htmlcov/index.html
+```
+1. coverage run manage.py test api -v 2
+2. coverage html
+3. open kami_airlines/htmlcov/index.html
+```
